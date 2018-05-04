@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !-d
+RewriteCond %{REQUEST_URI} !-f 
+RewriteRule ^(\w+)$  /index.php?page=$1 [L]

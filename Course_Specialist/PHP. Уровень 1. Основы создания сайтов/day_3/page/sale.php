@@ -1,0 +1,8 @@
+<h2>Скидки</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nam ducimus consequuntur dolores ipsum sit doloribus ipsa soluta alias omnis minima velit debitis ut exercitationem, aliquam praesentium esse dolorum, placeat.</p>
