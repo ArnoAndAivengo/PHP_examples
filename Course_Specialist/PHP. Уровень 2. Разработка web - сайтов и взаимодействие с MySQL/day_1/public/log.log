@@ -1,0 +1,8 @@
+/index.php?page=log|http://mysite.local/index.php?page=index|1526907651|
+/index.php?page=catalog|http://mysite.local/index.php?page=log|1526907652|
+/index.php?page=feedback|http://mysite.local/index.php?page=catalog|1526907653|
+/index.php?page=index|http://mysite.local/index.php?page=feedback|1526907654|
+/index.php?page=test|http://mysite.local/index.php?page=index|1526907655|
+/index.php?page=feedback|http://mysite.local/index.php?page=test|1526907656|
+/index.php?page=log|http://mysite.local/index.php?page=feedback|1526907657|
+/index.php?page=test|http://mysite.local/index.php?page=log|1526908661|
