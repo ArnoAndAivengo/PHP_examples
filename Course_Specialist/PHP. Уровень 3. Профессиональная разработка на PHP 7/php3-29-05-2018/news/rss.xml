@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Новости</title>
+    <link>/news/news.php</link>
+    <item>
+      <title>PHP 7.1.18 Released</title>
+      <link/>
+      <description>The PHP development team announces the immediate availability of PHP 7.1.18. All PHP 7.1 users are encouraged to upgrade to this version.&#13;
+&#13;
+For source downloads of PHP 7.1.18 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.</description>
+      <pubDate>29-05-2018 13:46:46</pubDate>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>"Рояль будущего" поселился в Московской консерватории</title>
+      <link/>
+      <description>«Рояль будущего» появился в Московской консерватории. Правительство Венгрии передало в дар инструмент нового поколения, разработанный известным венгерским пианистом Гергеем Богани.&#13;
+&#13;
+«Я к этому шел более 20 лет. В моей голове всегда звучал звук, которого я никак не мог добиться, играя на самых разных инструментах. Тогда я решил создать свой рояль. Он обладает настолько чистым, насыщенным и в то же время мощным звуком, что ему подвластна музыка любых стилей и эпох», - говорит пианист Гергей Богани.</description>
+      <pubDate>29-05-2018 13:45:33</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>БОМБАРДИРЫ БОЛЬШЕ НЕ НУЖНЫ. СЕЙЧАС ПОЛЕЗНЕЕ ДРУГИЕ НАВЫКИ</title>
+      <link/>
+      <description>Время забивных нападающих прошло. Еще несколько лет назад завершил карьеру последний топовый форвард штрафной площадки – Мирослав Клозе. Следующими потеряют актуальность нападающие вроде Кейна и Смолова, которые исключительно принимают, обводят и бьют. Их место займут игроки, чья главная задача не в том, чтобы заколотить мяч в сетку. Часто даже в мощных клубах основной страйкер забивает не более пяти голов за сезон. Это не коллективное помешательство всех тренеров мира – современный футбол вынуждает коучей идти на такие жертвы.</description>
+      <pubDate>29-05-2018 13:43:48</pubDate>
+      <category>Спорт</category>
+    </item>
+    <item>
+      <title/>
+      <link/>
+      <description/>
+      <pubDate>01-01-1970 03:00:00</pubDate>
+      <category/>
+    </item>
+  </channel>
+</rss>
