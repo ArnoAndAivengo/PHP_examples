@@ -9,17 +9,14 @@
 <body>
 
     <?php
-        $x = 0;
-        $arr = array(0,4,7);
-//        echo $arr[2];
 
-        $arr_1 = array("Hi" => "Привет", "Nautilus" => "Nemo");
-//        echo $arr_1["Hi"];
+        function red($x, $y) {
+            $res = $x + $y;
+            echo $res;
+        }
 
-    foreach($arr_1 as $key => $val)
-    {
-        echo $key . ' ' .$val . '<br>';
-    }
+    red(4, 9);
+
     ?>
     
 </body>

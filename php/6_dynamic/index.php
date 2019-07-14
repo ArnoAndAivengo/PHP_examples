@@ -8,19 +8,13 @@
 </head>
 <body>
 
+
     <?php
-        $x = 0;
-        $arr = array(0,4,7);
-//        echo $arr[2];
-
-        $arr_1 = array("Hi" => "Привет", "Nautilus" => "Nemo");
-//        echo $arr_1["Hi"];
-
-    foreach($arr_1 as $key => $val)
-    {
-        echo $key . ' ' .$val . '<br>';
-    }
+    require 'header.php';
+    echo 'Основная часть сайта';
+    require 'footer.php';
     ?>
+
     
 </body>
 </html>
